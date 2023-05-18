@@ -4,7 +4,6 @@ import com.shopping.usermangement.dto.AppUserDto;
 import com.shopping.usermangement.mapper.AppUserMapper;
 import com.shopping.usermangement.service.AppUserService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

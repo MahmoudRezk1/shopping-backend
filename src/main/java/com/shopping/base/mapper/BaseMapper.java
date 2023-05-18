@@ -4,7 +4,6 @@ import com.shopping.base.dto.BaseDto;
 import com.shopping.base.entity.BaseEntity;
 import org.mapstruct.MappingTarget;
 
-import java.lang.annotation.Target;
 import java.util.List;
 import java.util.Set;
 
